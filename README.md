@@ -17,6 +17,14 @@ A repository for CMPT 863 - Advanced Human Computer Interaction Project. Re-desi
 
 Watch a demo walk-through of our prototype via [Youtube](https://youtu.be/iSRjOnKSOWs)
 
+## Presentation Slides
+
+View the presentations slides for this project via [Google Slides](https://docs.google.com/presentation/d/12nTpo6qFvet-5R4vzhUarRXkupSxk5GdoeD26tg1Hyg/edit?usp=sharing)
+
+## Project Repo
+
+View the final report for this project via [Google Docs](https://docs.google.com/document/d/1cyDYI-WDcpi1v6RoCvNtQaEsn8-OdZhZJshgqMvh4c4/edit?usp=sharing)
+
 ## Figma Board
 
 Link to access prototype via [Figma board](https://www.figma.com/file/bUxub7VD15TZPONTqbKssz/CMPT863-Spotify?node-id=0%3A1)
