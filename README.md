@@ -21,7 +21,7 @@ Watch a demo walk-through of our prototype via [Youtube](https://youtu.be/iSRjOn
 
 View the presentations slides for this project via [Google Slides](https://docs.google.com/presentation/d/12nTpo6qFvet-5R4vzhUarRXkupSxk5GdoeD26tg1Hyg/edit?usp=sharing)
 
-## Project Repo
+## Project Report
 
 View the final report for this project via [Google Docs](https://docs.google.com/document/d/1cyDYI-WDcpi1v6RoCvNtQaEsn8-OdZhZJshgqMvh4c4/edit?usp=sharing)
 
