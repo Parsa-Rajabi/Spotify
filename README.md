@@ -79,8 +79,8 @@ Below are a list of flows developed as part of this medium fidelity application:
   - Select any of the albumbs / artists on the library page
   - View out of scope page
 
+#### List of Prototype Interfaces 
 
-List of all interfaces developed as part of the prototype:
 - Home
 - Search
 - Serach > Typing
